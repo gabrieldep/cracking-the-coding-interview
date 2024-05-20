@@ -8,4 +8,8 @@
         <RootNamespace>Program</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\ChapterArraysStrings\ChapterArraysStrings.csproj" />
+    </ItemGroup>
+
 </Project>
