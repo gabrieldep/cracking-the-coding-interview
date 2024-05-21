@@ -7,8 +7,6 @@ public abstract class Program
 {
     public static void Main()
     {
-        const string inputValue = "abacd";
-        var removedDuplicated = RemoveDuplicateCharWithoutBuffer.RemoveDuplicateCharModified(inputValue);
-        Console.WriteLine(removedDuplicated);
+        Console.WriteLine("Hello world");
     }
 }
